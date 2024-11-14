@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://roofing.clarmetalroofing.xyz/sitemap_index.xml
